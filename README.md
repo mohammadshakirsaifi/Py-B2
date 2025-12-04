@@ -101,3 +101,10 @@ python task1_even_odd.py
 ```bash
 python task2_sum_numbers.py
 ```
+
+
+## Requirements.txt
+```txt
+# No external dependencies required for this assignment
+# Python 3.6+ is sufficient
+```
