@@ -23,7 +23,7 @@ A Python program that:
 ```bash
 python task1_even_odd.py
 ```
-###### Example Output:
+######  Expected Output:
 ```text
 Task 1: Even or Odd Number Checker
 ========================================
@@ -61,7 +61,7 @@ A Python program that:
 ```bash
 python task2_sum_numbers.py
 ```
-###### Example Output:
+######  Expected Output:
 
 ```text
 Task 2: Sum of Integers from 1 to 50
